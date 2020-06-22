@@ -1,0 +1,1 @@
+<Contact xmlns="http://schemas.datacontract.org/2004/07/FileHandling.BO" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Address><Line1>street</Line1><Line2>town</Line2></Address><Name>dave</Name></Contact>
